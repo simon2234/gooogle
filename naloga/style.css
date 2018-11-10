@@ -1,0 +1,55 @@
+.glavno a {
+  display: block;
+}
+.slika {
+  text-align: center;
+
+}
+.sl {
+  width: 10%;
+}
+.pp {
+  width: 30px;
+}
+.glavno {
+  background-color: #b0a9a9;
+  height: 35%;
+  width:25%;
+  margin:auto;
+}
+.glavno input, button {
+  display:block;
+  margin: auto;
+  width: 80%;
+  height: 40px;
+
+}
+.zunanje h1, h3, p {
+  text-align: center;
+}
+.ppp {
+  display:block;
+  margin: auto;
+  width: 100px;
+  padding: 20px
+}
+.glavno button {
+  background-color: #56aff2
+}
+.glavno button {
+  color: white;
+}
+.slikce {
+  text-align: center;
+}
+.zunanje a {
+  text-align: right;
+  text-decoration: none;
+
+}
+.oo {
+  text-align: center;
+  margin: 30px;
+}
+.glavno a {
+  margin-right: 45px;}
